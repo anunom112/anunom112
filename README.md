@@ -1,25 +1,52 @@
-![banner](https://github.com/anunom112/anunom112/blob/main/assets/banner.jpg)
+<p align="center">
+  <img src="assets/banner.jpg" alt="banner" width="100%">
+</p>
 
-## 👋 About me:
+<h1 align="center">anunom112</h1>
 
-**Just a guy who codes.**  
-**I break things, then fix them.**  
-**I listen to music that would make your grandma cry.**  
-
-🎯 **Currently:** diving deep into Python & reverse engineering  
-🌱 **Learning:** C++, Rust, and how to touch grass  
-💀 **Fun fact:** I'm probably older than you think  
+<p align="center">
+  <a href="README.ru.md">Русский</a> | <a href="README.ua.md">Українська</a>
+</p>
 
 ---
 
-## 📊 GitHub stats: *look at how bad it's getting...*
+## About
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anunom112&theme=nightowl&hide_border=false)
+- OSINT tools, Telegram bots, reverse engineering
+- Languages: Python, Java, C#, C++
+- Code quality over quantity
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=anunom112&show_icons=true&locale=en&layout=compact&theme=nightowl&card_width=840)
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anunom112&card_width=840&card_height=300&show_icons=true&theme=nightowl)
+## Tech Stack
 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anunom112&show_icons=true&theme=nightowl&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anunom112&theme=nightowl&hide_border=true" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anunom112&layout=compact&theme=nightowl&hide_border=true" width="50%">
+</p>
+
+---
+
+## Contacts
+
+[Telegram](https://t.me/anunom112) | [GitHub](https://github.com/anunom112)
+
+---
+
+> If it works, don't touch it. If it doesn't, blame the last commit.
 ---
 
 ## 🧠 What I know (and what I pretend to know)
