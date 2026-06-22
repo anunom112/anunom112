@@ -2,29 +2,114 @@
   <img src="assets/banner.jpg" alt="banner" width="100%">
 </p>
 
-<h1 align="center">anunom112</h1>
-
-<p align="center">
-  <a href="README.ru.md">Русский</a> | <a href="README.ua.md">Українська</a>
-</p>
+<div align="center">
+  <a href="#english">English</a> | <a href="#russian">Русский</a> | <a href="#ukrainian">Українська</a>
+</div>
 
 ---
 
-## About
+<a id="english"></a>
+## English
+
+### About
 
 - OSINT tools, Telegram bots, reverse engineering
 - Languages: Python, Java, C#, C++
 - Code quality over quantity
 
----
-
-## Tech Stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anunom112&show_icons=true&theme=nightowl&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anunom112&theme=nightowl&hide_border=true" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anunom112&layout=compact&theme=nightowl&hide_border=true" width="50%">
+</p>
+
+### Contacts
+
+[Telegram](https://t.me/anunom112) | [GitHub](https://github.com/anunom112)
+
+> If it works, don't touch it. If it doesn't, blame the last commit.
+
+---
+
+<a id="russian"></a>
+## Русский
+
+### О себе
+
+- OSINT-инструменты, Telegram-боты, реверс-инжиниринг
+- Языки: Python, Java, C#, C++
+- Качество кода превыше количества
+
+### Технологии
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+
+### Статистика GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anunom112&show_icons=true&theme=nightowl&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anunom112&theme=nightowl&hide_border=true" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anunom112&layout=compact&theme=nightowl&hide_border=true" width="50%">
+</p>
+
+### Контакты
+
+[Telegram](https://t.me/anunom112) | [GitHub](https://github.com/anunom112)
+
+> Если работает — не трогай. Если не работает — вини последний коммит.
+
+---
+
+<a id="ukrainian"></a>
+## Українська
+
+### Про себе
+
+- OSINT-інструменти, Telegram-боти, реверс-інжиніринг
+- Мови: Python, Java, C#, C++
+- Якість коду понад кількість
+
+### Технології
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+
+### Статистика GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anunom112&show_icons=true&theme=nightowl&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anunom112&theme=nightowl&hide_border=true" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anunom112&layout=compact&theme=nightowl&hide_border=true" width="50%">
+</p>
+
+### Контакти
+
+[Telegram](https://t.me/anunom112) | [GitHub](https://github.com/anunom112)
+
+> Якщо працює — не чіпай. Якщо ні — звинувачуй останній коміт.
 ---
 
 ## GitHub Stats
