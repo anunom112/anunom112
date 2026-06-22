@@ -1,4 +1,4 @@
-![banner](https://github.com/anunom112/anunom112/blob/main/assets/banner.png)
+![banner](https://github.com/anunom112/anunom112/blob/main/assets/banner.jpg)
 
 ## 👋 About me:
 
